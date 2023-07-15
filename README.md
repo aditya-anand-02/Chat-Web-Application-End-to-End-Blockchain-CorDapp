@@ -1,6 +1,7 @@
 # Chat-Web-Application-End-to-End-Blockchain-CorDapp
 
-Corda is primarily designed for enterprise blockchain use cases, and while it may not be the most suitable platform for building a chat application, it can still be used to create certain components of a chat system. Here's a high-level overview of how you could leverage Corda for building a chat application:
+This Chat Application uses concepts of Blockchain, Rest APIs, WebServices, Corda Blockchain API and is programmed in Java Language. It is an end to end Chatting Web application that provides an interface to the user for end to end secure text messaging.
+The project executes the following principles:
 
 Network Setup: Set up a Corda network with multiple nodes representing different participants in the chat application. Each node can represent a user or an entity involved in the chat system.
 
